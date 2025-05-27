@@ -1,4 +1,4 @@
-# EvilTwin-AP
+# EvilTwin-arch
 
 Ce dépôt contient des scripts Bash pour réaliser une attaque Wi-Fi de type "Evil Twin", à des fins éducatives et de test de sécurité.
 
