@@ -25,7 +25,7 @@ Ce projet utilise `hostapd`, `dnsmasq` et `iptables` pour simuler cet environnem
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/VotreNomDUtilisateur/EvilTwin-AP.git](https://github.com/VotreNomDUtilisateur/EvilTwin-AP.git)
+    git clone [https://github.com/ecco2kfr/EvilTwin-AP.git](https://github.com/ecco2kfr/EvilTwin-AP.git)
     cd EvilTwin-AP
     ```
 
@@ -72,4 +72,4 @@ Ce projet utilise `hostapd`, `dnsmasq` et `iptables` pour simuler cet environnem
 
 ## Avertissement
 
-Cet outil est destiné à des **fins éducatives et de tests de sécurité éthiques uniquement**. L'auteur décline toute responsabilité en cas d'utilisation abusive. Utilisez-le uniquement sur des réseaux pour lesquels vous avez une autorisation explicite.
+Cet outil est destiné à des **fins éducatives et de tests de sécurité éthiques uniquement**. Je décline toute responsabilité en cas d'utilisation abusive. Utilisez-le uniquement sur des réseaux pour lesquels vous avez une autorisation explicite :D
