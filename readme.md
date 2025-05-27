@@ -25,7 +25,7 @@ Ce projet utilise `hostapd`, `dnsmasq` et `iptables` pour simuler cet environnem
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/ecco2kfr/EvilTwin-arch.git](https://github.com/ecco2kfr/EvilTwin-arch.git)
+    git clone https://github.com/ecco2kfr/EvilTwin-arch.git
     cd EvilTwin-arch
     ```
 
